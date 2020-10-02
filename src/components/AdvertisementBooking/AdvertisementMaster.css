@@ -1,0 +1,53 @@
+.revenueclinic_container .formdiv{
+   display:flex;
+   align-items: center;
+   margin-right: 15px;
+}
+.revenueclinic_container .formdiv .labeltxt{
+   padding-right:5px;
+   padding-bottom: 0px !important;
+}
+.calendar_container {
+   padding-bottom: 50px;
+   height:550px;
+}
+@media screen and (max-width: 959px) {
+
+   .calendar_container{
+      height:100%;
+   }
+   }
+   .clinic_label{
+      font-size: 18px;
+      font-weight: 500;
+      margin-right: 10px;
+      /* color: black; */
+   }
+   .select_drop{
+      width: 150px;
+      height: 30px;
+      /* color: black; */
+      font-size: 16px;
+      font-weight:500;
+   }
+   .advertise_heading_edit{
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+       background: #F8F8F8 0% 0% no-repeat padding-box;
+       box-shadow: 0px 3px 6px #00000029;
+       border-radius: 5px 5px 0px 0px;
+       opacity: 1;
+       height: 60px;
+       align-items: center;
+       width: 100%;
+   }
+   .titleuser{
+      font-size: 18px;
+      color: #86B149;
+      margin-top: 10px;
+      margin-left: 2%;
+   }
+   .advertisement_clinic_container{
+      margin-right: 20px;
+   }

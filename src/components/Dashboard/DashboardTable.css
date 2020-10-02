@@ -1,0 +1,171 @@
+.MuiTablePagination-select {
+  padding-left: 8px !important;
+  padding-right: 24px !important;
+}
+.MuiTablePagination-caption {
+  font-size: 1.5rem !important;
+}
+.lab_dash_bottom_buttons {
+  margin-left: 20px !important;
+  font-size: 1rem !important;
+  box-shadow: 11px 23px 16px -30px black;
+}
+
+.lab_dash_bottom2 {
+  color: #eb1e68 !important;
+  border: 1px solid !important;
+  font-size: 1.75rem !important;
+  box-shadow: 0px 0px 2px #eb1e68;
+  text-transform: none !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+.lab_dash_bottom2 .MuiButton-label {
+  padding: 0px 18px;
+  font-size: 18px;
+}
+.lab_dash_bottom3 {
+  color: #a42ab8 !important;
+  border: 1px solid !important;
+  font-size: 1.75rem !important;
+  box-shadow: 0px 0px 2px #a42ab8;
+  text-transform: none !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
+}
+.lab_dash_bottom3 .MuiButton-label {
+  padding: 0px 18px;
+  font-size: 18px;
+}
+.page_button_container {
+  position: relative;
+  bottom: 75px;
+}
+.lab_dashboard_buttons_wrap {
+  padding-top: 25px;
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 12px;
+}
+.lab_button_common_styles {
+  display: block;
+  justify-content: center;
+  height: 125px;
+  width: 22%;
+  border-radius: 7px !important;
+  color: #ffffff !important;
+  font-size: 1.5rem !important;
+}
+.lab_button_text {
+  font-size: 16px;
+}
+.lab_button1 {
+  background-image: linear-gradient(
+    to left,
+    rgb(245, 201, 93),
+    rgba(251, 166, 19, 0.98)
+  );
+}
+.lab_button2 {
+  background-image: linear-gradient(
+    to left,
+    rgb(7, 139, 118),
+    rgb(65, 170, 86)
+  );
+}
+.lab_button3 {
+  background-image: linear-gradient(
+    to left,
+    rgb(236, 66, 117),
+    rgb(238, 81, 82)
+  );
+}
+.lab_button4 {
+  background-color: #ff4747 !important;
+}
+.lab_button5 {
+  background-image: linear-gradient(to bottom, #2197f3, #27b3f5);
+}
+.lab_button_text {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 8px;
+  color: #fff;
+}
+.lab_dash_sidehead {
+  font-size: 1.5rem !important;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.divider_container {
+  display: flex;
+  justify-content: center;
+}
+.divider_1px {
+  height: 1.5px;
+  border-radius: 20%;
+  width: 85%;
+  background-color: #ffffff;
+}
+.lab_dash_numeric_wrap {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  color: #fff;
+}
+.lab_dash_numeric_value {
+  font-size: 3rem;
+}
+.todaysappointment_edit {
+  padding: 15px 0px 0px 15px;
+  font-size: 1.5rem !important;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0px !important;
+}
+.todays_appointment {
+  padding-right: 3px;
+  color: #333333;
+  margin-right: 10px;
+}
+.current_date {
+  color: #333 !important;
+  margin-left: 20px;
+}
+@media only screen and (max-width: 1060px) {
+  .lab_button_common_styles {
+    height: 100px;
+    width: 24%;
+  }
+  .lab_dash_numeric_wrap {
+    margin-top: 8px;
+  }
+}
+@media only screen and (max-width: 1060px) {
+  .page_button_container {
+    bottom: 0;
+    padding-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 830px) {
+  .lab_button_text {
+    margin-top: 15px;
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    margin-bottom: 5px;
+  }
+  .lab_dash_numeric_wrap {
+    margin-top: 5px;
+  }
+}
+@media only screen and (max-width: 1040px) {
+  .lab_dash_bottom3 {
+    font-size: 1.25rem !important;
+  }
+  .lab_dash_bottom1 {
+    font-size: 1.25rem !important;
+  }
+  .lab_dash_bottom2 {
+    font-size: 1.25rem !important;
+  }
+}

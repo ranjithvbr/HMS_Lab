@@ -1,0 +1,173 @@
+.doctor_revenue .titlerevenue {
+  font-size: 1.75rem;
+  color: #86b149;
+}
+
+.doctorphar_dashboard {
+  display: flex;
+  align-items: center;
+
+}
+
+.doctor_revenue .MuiButton-outlinedSizeSmall {
+  padding: 5px 9px !important;
+}
+
+/* .doctor_revenue_dashboard .formdiv .selectbox .ant-select-selection--single{
+    border:none !important;
+  } */
+.doctor_revenue .formdiv .labeltxt {
+  padding-bottom: 0px !important;
+}
+
+.uploadsmasterheader .labeltxt {
+  color: rgba(0, 0, 0, 0.65) !important;
+  margin-right: 10px !important;
+  margin-bottom: 0px !important;
+  position: relative;
+  font-size: 1.5rem !important;
+}
+
+.patient_head {
+  width: 22%;
+  position: relative;
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.doctor_patienttype .formdiv {
+  width: 35%;
+
+}
+
+.doctor_patienttype {
+  display: flex;
+  align-items: center;
+
+}
+
+.doctor_revenue .formdiv .selectbox .ant-select-selection--single {
+  padding: 0px !important;
+
+}
+
+.doctor_revenue .formdiv .selectbox .ant-select-selection--single {
+  padding: 3px !important;
+}
+
+.doctor_revenue .doctor_revenueplus-container {
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  width: 50%;
+  justify-content: space-between;
+}
+
+.plus-icon {
+  cursor: pointer;
+}
+
+.clinic_details {
+  color: white !important;
+  font-size: 12px !important;
+  background-color: rgb(82, 118, 238) !important;
+  border: none;
+  padding: 8px;
+}
+
+.clinic_details:focus {
+  background-color: #303f9f !important;
+}
+
+/* .clinic_details
+  {
+    color:white !important;
+    font-size: 1.5rem !important;
+    
+    border:none;
+      font-family: 'Avenir-Black';
+    padding:8px;
+    
+  } */
+
+.clinic_group_details .MuiButton-root {
+  text-transform: none !important;
+  border-radius: none !important;
+  padding: 5px 15px !important;
+
+}
+
+.clinic_date_details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.currentdate {
+  font-size: 15px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.doctor_revenue .formdiv {
+  display: flex !important;
+}
+
+.doctor_revenue .MuiButtonGroup-root {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 4px 8px 0 rgba(0, 0, 0, 0.20) !important;
+  border: none !important;
+  border-radius: none !important;
+}
+
+.current_left {
+  margin-right: 5px;
+}
+
+.current_right {
+  margin-left: 5px;
+}
+
+.doctor_revenue .MuiButton-root {
+  text-transform: none !important;
+  border-radius: none !important;
+  border: none !important;
+  font-size: 15px !important;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 4px 8px 0 rgba(0, 0, 0, 0.20) !important;
+
+}
+
+.pdf {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.excel {
+  margin-right: 10px;
+}
+
+.reclinic_container {
+  margin-left: 15px;
+}
+
+.revenueclinic_container {
+  margin-left: 15px;
+}
+
+.labTest {
+  cursor: pointer;
+}
+
+/* RevenueTestDetails.jsx css*/
+.testCard {
+  height: 55px;
+  background: #86b149;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testName,.testAmount{
+  font-size: 15px;
+}

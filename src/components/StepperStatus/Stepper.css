@@ -1,0 +1,25 @@
+.icon_settings{
+    color: white;
+    font-size: 25px;
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel{
+    font-size: 13px;
+    padding-bottom: 3px;
+    margin-top: 10px !important;
+    ;
+}
+.btn_par_hide {
+    display: none;
+}
+
+
+.MuiStepper-alternativeLabel{
+    align-items: flex-start;
+    position: relative;
+}
+
+/* .stepper__days {
+    position: absolute;
+    left: 24%;
+    font-size: 10px;
+} */

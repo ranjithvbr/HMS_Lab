@@ -1,0 +1,379 @@
+
+.pharmacy_login_container .pharmacy_main_container
+{
+	width:70%;
+	height:auto;
+}
+/* .pharmacy_login_container .pharmacy_grid_container
+{
+	position:relative;
+} */
+
+.pharmacy_login_container .inbox_icon_div
+{
+	width:20px;
+	height:20px;
+	position:absolute;
+}
+.pharmacy_login_container .inbox_icon
+{
+	width:20px;
+	height:20px;
+}
+.pharmacy_login_container .pharmacy_grid_container
+{
+	width:100%;
+	height:auto !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.pharmacy_login_container .logo_image
+{
+	width:100%;
+	height:100%;
+}
+ /* .pharmacy_login_container .pharmacy_text
+{
+   position: absolute;
+    top: 500px;
+    left: 0px;
+ 
+    align-items: center;
+    font-size:4rem;
+    color: white;
+     font-family: 'Avenir-Black' !important;	
+    transform: rotate(-90deg);
+}  */
+.pharmacy_login_container .logo_image
+{
+	width:100%;
+	height:100%;
+}
+.pharmacy_login_container .logo_image_div
+{
+	width:100px;
+	height:100px;
+}
+ .logo_container
+{
+display:flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 15px;
+
+}
+.pharmacy_login_container .logo_div
+{
+	width:100px;
+	height:auto;
+    
+
+}
+.pharmacy_login_container .pharmacy_paper_div
+{
+	align-items: center;
+	justify-content: center;
+}
+.pharmacy_login_container .pharmacy_image_grid
+{
+	width:100%;
+	height:100%;
+	display: flex;
+}
+.pharmacy_login_container .pharmacy_image
+{
+	width:100%;
+	height:100%;
+	position: relative;
+}
+.pharmacy_login_container .pharmacy_image_login
+{
+	width:100%;
+	height:100%;
+
+}
+.pharmacy_login_container .pharmacy_image_div
+{
+	width:100%;
+	height:100%;
+}
+
+.pharmacy_login_container .lock_icon_container
+{
+	width:100%;
+	height: 100%;
+	top: 170px;
+    left: 481px;
+    position: absolute;
+}
+.pharmacy_login_container .lock_icon_div
+{
+	width:20px;
+	height:20px;
+}
+.pharmacy_email_container 
+{
+	border:none !important;
+}
+
+.pharmacy_login_container .lock_icon
+{
+	width:100%;
+	height:100%;
+}
+.pharmacy_login_container .password_container
+{
+	
+	margin-top:10px !important;
+}
+
+.pharmacy_login_container .main_containerdiv
+{
+	height:100% !important;
+	width:100% !important;
+}
+.pharmacy_login_container .pharmacy_image
+{
+  width:100%;
+  box-shadow: 0 0 2px 2px #e8e8e8;
+}
+.pharmacy_login_container .Welcometext
+{
+    font-size:3.5rem !important;
+    color:rgb(131 175 64) !important;
+}
+ .pharmacy_Welcometext-container
+{
+	height:15%;
+	display:flex;
+	text-align:center;
+	justify-content: center;
+	align-items: flex-end;
+}
+.pharmacy_login_container .Submit
+{
+	 color:rgb(80,174,89) !important;
+	 text-decoration: none !important;
+	 cursor:pointer;
+     font-size: 20px;
+}
+.pharmacy_login_container .submit_container
+{
+	text-align:right;
+	margin-top:20px;
+
+}
+.pharmacy_login_container .cancelbutton
+{
+	text-decoration: none !important;
+	cursor:pointer;
+}
+.pharmacy_login_container .pharmacy_image_container
+{
+	width:100%;
+	height:100%;
+	display: flex;
+}
+.pharmacy_login_container .parent
+{
+	position: relative;
+}
+.cancel_container
+{
+	margin-top:23px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+	margin-bottom: 10px;
+}
+/* .cancel_container:hover{
+	background-color: red;
+} */
+ .cancelbutton
+{
+	color:rgb(131 175 64) !important;
+}
+/* .cancelbutton:hover{
+	cursor: pointer !important;
+	
+} */
+.clinic_login_container ::placeholder
+{
+	font-size: 10px;
+
+}
+.login_button_container
+{
+	padding-top:25px !important;
+}
+.pharmacy_login_container .login {
+    background-color: white;
+    display: flex;
+    border-radius: 50px;
+    /* height: 24%; */
+    height: 70px;
+    width: 100%;
+    cursor: pointer;
+    color: white;
+    background-color: hsla(88, 79%, 46%, 0.85);
+    font-size: 2.5rem;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border: none;
+    background: transparent linear-gradient(180deg, #83AE40 0%, #A2F622 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 6px #00000030;
+    border-radius: 34px;
+}
+.pharmacy_login_container .label + .MuiInput-formControl {
+    margin-top: 22px !important;
+    }
+.pharmacy_login_container button:focus
+{
+	outline: none !important;
+}
+@media only screen and (max-width:768px) 
+{
+.pharmacy_login_container .pharmacy_image
+{
+	display: none;
+	position:relative;
+}
+.pharmacy_login_container .pharmacy_main_container
+{
+	width:100%;
+	height:auto;
+	/* margin-top: 177px; */
+}
+.pharmacy_login_container .pharmacy_grid_container
+{
+	width:100%;
+	height:auto !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+/* .pharmacy_login_container .Welcometext
+{
+
+  font-size: 20px !important;
+} */
+.pharmacy_login_container .pharmacy_text
+{
+	top:14%;
+
+	position: absolute;
+}
+}
+@media only screen and (max-width:959px) 
+{
+.pharmacy_login_container .pharmacy_image_grid
+{
+	display: none;
+}
+.pharmacy_login_container .pharmacy_grid_container
+{
+	width:100%;
+	height:100vh !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.pharmacy_login_container .pharmacy_main_container
+{
+	width:70%;
+	height:auto;
+
+}
+.pharmacy_login_container .pharmacy_main_container
+{
+	width:45%;
+
+}
+
+.pharmacy_login_container .Welcometext{
+	font-size: 4rem !important;
+}
+ }
+ 
+@media only screen and (max-width:1024px) 
+{
+   .trainer_text
+{
+    margin-top: -169px;
+}
+}
+@media only screen and (max-width:1058px) {
+	.pharmacy_login_container .Welcometext{
+		font-size: 3rem !important;
+	}	
+}
+
+
+.pharmacy_login_container .MuiInputBase-input{
+
+  font-size: 15px !important;
+  height: 3rem !important;
+  padding: 6px 0 4px !important;
+}
+.pharmacy_login_container .MuiInputLabel-formControl {
+	 font-size:1.5rem !important;
+	 top:10px !important;
+
+	}
+	.pharmacy_login_container .MuiInput-underline:after {
+     transition:none !important; 
+      /* border-bottom: none !important; */
+    pointer-events: none
+}
+.pharmacy_login_container .MuiInput-underline:before {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition:none !important; 
+    pointer-events: none;
+    /* border-bottom: 2px solid #000000ed !important; */
+}
+.pharmacy_login_container .MuiInputLabel-root.Mui-focused {
+	color:grey !important;
+	border-bottom: red !important;
+	}
+
+ .pharmacy_login_container .MuiFormControl-root{
+    width:100% !important;
+    /* margin-left: 46px; */
+    /* margin-right: 46px; */
+}
+
+
+  .pharmacy_login_container .inbox_icon
+{
+	width:20px;
+	height:20px;
+}
+.pharmacy_text
+{
+	position: absolute;
+    top: -148px;
+    left: -452px;
+    /* display: flex; */
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 4rem;
+    color: white;
+    transform: rotate(-90deg);
+	right: 617px;
+	text-shadow: 0px 3px 6px #000000E6;
+
+}
+ .logineye_icon{
+	width:30px;
+	height:30px;
+}
+ .password_container .MuiIconButton-root 
+{
+	padding:6px !important;
+}

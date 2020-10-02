@@ -1,0 +1,238 @@
+.service_type_container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  width: 100%;
+}
+
+.manage_test_button-container {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 80px;
+  width: 99%;
+}
+
+.manage_test_button-containeredit {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-bottom: 15px;
+  width: 96%;
+}
+
+.manage_test_Cancel {
+  font-size: 1.25rem !important;
+  background-color: rgb(201, 201, 201) !important;
+  margin-right: 20px !important;
+  padding: 6px 16px !important;
+}
+
+.manage_test_Submit {
+  font-size: 1.25rem !important;
+  background-color: rgb(38, 128, 235) !important;
+  color: #fff !important;
+  padding: 6px 16px !important;
+}
+
+.service_type_container .MuiButton-text {
+  padding: 6px 16px !important;
+}
+
+.package_container .formdiv {
+  margin-bottom: 10px !important;
+}
+
+.instruction_area {
+  padding: 0px 12px 12px 12px;
+  width: 100%;
+}
+
+.add_test_container {
+  padding: 20px 10px 10px 20px;
+  border: 1px solid #ccc;
+  height: 100%;
+  box-shadow: 0 0 1.5px 0px #ccc;
+}
+
+.package_containerthird {
+  padding: 12px;
+}
+
+.test_add {
+  background-color: #82af3f;
+  font-size: 2.3rem !important;
+  color: #fff;
+  border-radius: 2px;
+  position: relative;
+  top: 7px;
+  left: 2px;
+  cursor: pointer;
+}
+
+.add_div {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.add_test {
+  width: 90% !important;
+}
+
+/* .testentry_container .formdiv .labeltxt {
+ color:#666666 !important;
+} */
+
+.testentry_container .formdiv .brdrcls {
+  font-size: 1.5rem;
+}
+
+.add_test .formdiv {
+  padding-right: 10px !important;
+}
+
+.add_test .formdiv .brdrcls {
+  font-size: 1.25rem !important;
+  padding: 6px !important;
+}
+
+/* .add_test  .formdiv .labeltxt {
+  color:#666666 !important;
+  font-size:1.25rem !important;
+ } */
+
+.test_view_tag {
+  border-radius: 2px !important;
+  font-size: 0.9rem !important;
+  line-height: 25px !important;
+  background-color: rgb(213, 242, 169) !important;
+  border: none !important;
+}
+
+.test_viewtag_div {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+
+}
+
+.test_viewtag_div .ant-tag .anticon-close {
+  color: rgb(237, 158, 126) !important;
+  font-size: 10px !important;
+  position: relative;
+  top: -1px !important;
+}
+
+.bar_tag {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.texttag {
+  border-radius: 2px;
+  font-size: 13px;
+  line-height: 25px;
+  background-color: rgb(213, 242, 169);
+  margin-bottom: 8px;
+  margin-right: 10px;
+  padding: 3px;
+  padding-inline-start: 8px;
+}
+
+.closeicontestview {
+  color: #ec6060;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.tabControlTest {
+  /* display: flex;
+  justify-content: center; */
+}
+
+.addBtn {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.manageCard {
+  height: 90px;
+}
+
+.left_content {
+  background: #86b149;
+  height: 100px;
+  color: white;
+  padding: 0px;
+  padding-top: 22px;
+}
+
+.left_header {
+  color: white !important;
+  display: flex;
+  justify-content: center;
+}
+
+.left_headeractive{
+  font-size: 12px;
+  color: white !important;
+  display: flex;
+  justify-content: center;
+}
+
+.right_content {
+  height: 80px;
+  padding: 6px;
+  padding-right: 15px;
+}
+
+.closeIconRightContent {
+  font-size: 12px !important;
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: bisque;
+  cursor: pointer;
+}
+
+.tabControlTest .ant-tabs-nav-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0px 3px 6px #00000029;
+  font-size: 16px !important;
+}
+
+.tabControlTest .ant-tabs-ink-bar {
+  height: 4px !important;
+  background-color: #86b149 !important;
+}
+
+.previewNoRecord {
+  width: 100%;
+  height: 67px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.testInstruction{
+  display: block;
+  height: 80px;
+  overflow-y: scroll;
+}
+
+.testStatus{
+  color: #86b149;
+  font-weight: bold;
+  float: right;
+}
+
+.Deal_active_check ~ span{
+  font-size: 14px;
+  /* position: relative;
+  top: 3px; */
+}

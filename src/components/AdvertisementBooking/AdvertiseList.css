@@ -1,0 +1,242 @@
+.paper_container{
+    /* width:290px; */
+     height:130px; 
+    padding:15px;
+    margin:10px;
+    /* box-shadow: 0 8px 20px rgba(143, 168, 191, 0.35) !important; */
+}
+.paper_maincontainer{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:15px;
+}
+.secondpaper_maincontainer{
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin:15px;
+}
+.heart_div{
+    display:flex;
+    justify-content: space-between;
+    color:#817f7f;
+}
+.heart_rate{
+    display:flex;
+
+}
+.heartdate_per{
+    font-size: 2.2rem;
+    margin-bottom: 0px !important;
+    color:#333;
+    margin-right: 10px;
+    position: relative;
+    top:-5px;
+    margin-left: 10px;
+}
+.heart_div p{
+    margin-bottom: 0px !important;
+}
+.heart_date{
+    font-size: 1.5rem;
+}
+.progress_container{
+    width:100%;
+    height:70px;
+    display:flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.second_paper_container{
+    margin:15px;
+}
+.heart_rate_progress  .ant-progress-bg{
+    background-color: #ff4e41 !important;
+}
+.sleep_progress .ant-progress-bg{
+    background-color: #38aca9 !important;
+}
+.running_progress .ant-progress-bg{
+    background-color: #21bdfb !important;
+}
+.plus-container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.doctor_upload_text{
+    font-size: 1.75rem;
+    color: #86b149;
+    margin-bottom: 0px !important;
+    margin-right: 20px;
+}
+.doctorviewheader{
+    width:100%;
+    padding: 15px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.person_age{
+    color: #86b149;
+    font-size: 1.25rem;
+    margin-bottom: 0px !important;
+}
+.viewdetails_person{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.viewdetails_persondate{
+display:flex;
+width:15%;
+justify-content:space-between;
+align-items: center;
+color: #86b149;
+font-size: 1.25rem;
+}
+.viewdetails_persondate p{
+   margin-bottom: 0px !important;
+}
+.deal_active_flat{
+     width: 60%;
+     display: flex;
+    justify-content: center;
+}
+.test_report {
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+.date_view{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+}
+.iconsdiv{
+    font-size: 2rem !important;
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.edit_icon_div{
+    fill:#97B866 !important;
+}
+.delete_icon_div{
+   fill:#D11A2A !important;
+}
+.list_test_report{
+    color:#333;
+    font-size: 1.5rem !important;
+    font-weight: 600 !important;
+}
+.list_edit{
+    fill:#83AF40 !important;
+}
+
+.list_edit:hover{
+    cursor: pointer;
+}
+.view{
+   font-size: 1.5rem !important;
+}
+.date_view{
+   font-size: 1.5rem !important;
+}
+.listdelete_icon{
+    fill:#D11A2A !important;
+    cursor: pointer;
+}
+.list_head{
+    color: #4A4A4A;
+    font-weight: 100;
+}
+.list_subhead{
+    color:#989898 !important;
+    font-size: 13.6px;
+}
+.Ad_location_container{
+    border: 2px dashed #D1D1D1;
+    overflow-y: scroll;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.Ad_location_container .MuiStepper-horizontal{
+    padding: 35px 0px 0px 0px;
+}
+
+.advertise_addlist_items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* padding:10px; */
+    /* border: 2px dashed #D1D1D1; */
+    margin: 0px 10px 7px 10px;
+    
+}
+.full_half_div{
+    padding-left: 10px;
+}
+.location_add_container{
+  
+    scrollbar-width: thin;
+}
+@media only screen and (max-width: 959px){
+.advertise_addlist_items{
+    margin:20px 20px 5px 20px;
+}
+}
+
+
+.location_add_container {
+    height: 370px;
+    overflow: scroll;
+    margin: 0px 0px 0px 25px;
+}
+
+.advertise_contentSpace{
+    margin-bottom: 13px;
+}
+
+.advertise_kwdsmall{
+    font-size: 10px;
+    color: gray;
+}
+
+.advertise_image{
+    display: flex;
+    justify-content: center;
+}
+
+.advertise_image img{
+    height: 65px;
+    margin-top: 12px;
+}
+
+.image_size{
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.pagination__container{
+    border-top: 1px solid #bdbbbb;
+    margin-top: 20px;
+    width: 96%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.noFoundIconCenter_ad {
+    text-align: center !important;
+}
+
+.noFoundIconCenter_ad img {
+    width: 100px;
+    margin-top: 60px;
+}

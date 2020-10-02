@@ -1,0 +1,163 @@
+/*.MuiDialogTitle-root 
+{
+	padding:0px !important;
+}*/
+.trainee_popup_details .MuiDialog-paperWidthSm {
+  width: 700px !important;
+}
+.addtrainees_details {
+  display: flex;
+  justify-content: space-between;
+}
+.details_mode {
+  color: #ccc;
+  font-size: 2rem !important;
+  margin-bottom: 0rem !important;
+}
+.name_dot_parent{
+  display: flex;
+  margin-top: 3px;
+  margin-left: 9px;
+}
+.dot_icons{
+  cursor:pointer;
+  margin-left:3px;
+  text-decoration:underline !important;
+  color: blue;
+}
+.age_details {
+  font-size: 1.25rem;
+  margin-bottom: 0px !important;
+  display: inline-flex;
+  width: 100%;
+}
+.package_details {
+  display: flex;
+  color: #ccc;
+  font-size: 15px;
+  width: 50%;
+  justify-content: space-between;
+}
+.package_cancel_details {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.package-cancel_button {
+  color: red !important;
+  border: 1px solid red !important;
+  font-size: 20px !important;
+  background-color: #f5dcead1 !important;
+}
+.trainee_image_container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+.trainee_image {
+  width: 100%;
+  height: 100%;
+}
+.trainee_image_div {
+  width: 100%;
+  height: auto;
+}
+.divider {
+  padding: 20px !important;
+}
+.addtrainee_gridcontainer {
+  padding: 20px;
+}
+.package_details_list {
+  width: 80%;
+  display: inline-flex;
+  /* justify-content: flex-end; */
+  align-items: center;
+  color: rgba(0, 0, 0, 0.85);
+  font-size:1.25rem;
+}
+.package_details_container {
+  display: flex;
+  width: 100%;
+  font-size: 1.25rem;
+}
+.trainee_detail {
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.working_hour {
+  font-size:1.5rem;
+  padding-bottom:10px;
+}
+.working_hour_detail {
+  font-size:1.25rem;
+  width: 100%;
+}
+.working_time_detail {
+  padding-left: 10%;
+  width: 100%;
+}
+
+.working_detail {
+  display: inline-flex;
+  width: 100%;
+  font-size: 1.25rem;
+  color: rgba(0, 0, 0, 0.85);
+}
+.icon_edit {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.icon {
+  font-size: 2.25rem !important;
+  fill: green !important;
+  margin-bottom: 3%;
+}
+.total {
+  padding: 3%;
+  width: 100%;
+}
+
+/* .trainee_popup_details {
+  max-width: 700px;
+  background-color: blue;
+} */
+.divider_profile{
+  height:2px !important;
+  margin:0px 0px 10px 0px !important;
+}
+
+.trainee_popup_details .MuiDialog-paperWidthSm {
+  max-width: 680px !important;
+}
+
+.trainee_text {
+  padding-left: 3%;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.group_icons{
+  font-size: 2rem !important;
+}
+.address_icons{
+  font-size: 2rem;
+}
+
+.profileContainer{
+    width: 50%;
+    background-color: #fff;
+    border: 1px solid #b1acac;
+    top: 150px;
+    position: absolute;
+}
+
+.profileWidthFull{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}

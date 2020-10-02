@@ -1,0 +1,25 @@
+.cell_eye {
+  padding-left: 0px !important;
+}
+
+.pending_clrred {
+  color: red;
+}
+
+.browseAndVisi svg {
+  font-size: 20px !important;
+  margin-right: 7px;
+  cursor: pointer;
+}
+
+.browseAndVisi svg:first-child {
+  color:#82AF3F;
+}
+
+.browseAndVisi svg:nth-child(2) {
+  color:#5377EE;
+}
+
+.resultviewModelWidth .MuiDialog-paperWidthMd {
+  width: 50%;
+}

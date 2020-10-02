@@ -1,0 +1,44 @@
+.icon_settings {
+    color: white;
+    font-size: 25px;
+}
+
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+    font-size: 13px;
+    padding-bottom: 3px;
+    margin-top: 10px !important;
+}
+
+.btn_par_hide {
+    display: none;
+}
+
+.stepper__days {
+    position: relative;
+    right: 0%;
+    bottom: 95px;
+    font-size: 10px;
+    margin-left: 25%;
+}
+
+.steeper_info{
+    font-size: 10px;
+    display: flex;
+    position: relative;
+    bottom: 105px;
+    justify-content: space-around;
+    /* margin-top: 30px; */
+}
+
+.steeper_info div{
+    width: 66px;
+}
+
+.steeper_info div:nth-child(2){
+    position: relative;
+    left: 5px;
+}
+
+.steeper_Container{
+    height: 120px;
+}

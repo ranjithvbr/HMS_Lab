@@ -1,0 +1,366 @@
+
+.pharmacy_forget_container .pharmacy_main_container
+{
+	width:70%;
+	height:auto;
+}
+.pharmacy_forget_container .pharmacy_grid_container
+{
+	position:relative;
+}
+.password_text{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	color:rgb(138, 138, 138) !important;
+}
+.pharmacy_forget_container .inbox_icon_div
+{
+	width:20px;
+	height:20px;
+	position:absolute;
+}
+.pharmacy_forget_container .inbox_icon
+{
+	width:20px;
+	height:20px;
+}
+.pharmacy_forget_container .pharmacy_grid_container
+{
+	width:100%;
+	height:auto !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.pharmacy_forget_container .logo_image
+{
+	width:100%;
+	height:100%;
+}
+.pharmacy_forget_container .logo_image
+{
+	width:100%;
+	height:100%;
+}
+.pharmacy_forget_container .logo_image_div
+{
+	width:90px;
+	height:90px;
+}
+/* .pharmacy_forget_container .logo_container
+{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    right: 0;
+
+} */
+.pharmacy_forget_container .label + .MuiInput-formControl {
+    margin-top: 22px !important;
+    }
+
+.pharmacy_forget_container .logo_div
+{
+	width:100px;
+	height:auto;
+  
+
+}
+.pharmacy_forget_container .pharmacy_paper_div
+{
+	align-items: center;
+	justify-content: center;
+}
+.pharmacy_forget_container .pharmacy_image_grid
+{
+	width:100%;
+	height:100%;
+	display: flex;
+}
+.pharmacy_forget_container .pharmacy_image
+{
+	width:100%;
+	height:auto;
+	position: relative;
+}
+.pharmacy_forget_container .pharmacy_image_login
+{
+	width:100%;
+	height:100%;
+
+}
+.pharmacy_forget_container .trainer_image_div
+{
+	width:100%;
+	height:100%;
+}
+
+
+.pharmacy_forget_container .lock_icon_container
+{
+	width:100%;
+	height: 100%;
+	top: 170px;
+    left: 481px;
+    position: absolute;
+}
+.pharmacy_forget_container .lock_icon_div
+{
+	width:20px;
+	height:20px;
+}
+
+.pharmacy_forget_container .lock_icon
+{
+	width:100%;
+	height:100%;
+}
+
+
+
+.pharmacy_forget_container .main_containerdiv
+{
+	height:100% !important;
+	width:100% !important;
+
+}
+ .pharmacy_forget_container .pharmacy_image
+{
+  width:100%;
+  box-shadow: 0 0 2px 2px #e8e8e8;
+
+  /* height:100vh; */
+}
+
+.pharmacy_forget_container .Welcometext
+{
+
+  font-size: 2.6rem !important;
+   
+  color:rgb(131 175 64) !important;
+}
+.pharmacy_forget_container .pharmacy_Welcometext-container
+{
+	height:15%;
+	display:flex;
+	text-align:center;
+	justify-content: center;
+	align-items: flex-end;
+	margin-bottom: 10px;
+}
+.pharmacy_forget_container .Submit
+{
+	 color:rgb(80,174,89) !important;
+	 text-decoration: none !important;
+	 cursor:pointer;
+     font-size: 20px;
+}
+/* .pharmacy_text
+{
+   position: absolute;
+    top: 500px;
+	left:45px;
+	right:100px;
+    align-items: center;
+    font-size:4rem;
+    color: white;
+     font-family: 'Avenir-Black' !important;	
+    transform: rotate(-90deg);
+} */
+.pharmacy_submit_container
+{
+	padding-top:20px;
+	
+}
+.pharmacy_forget_container .submit_container
+{
+	text-align:right;
+	margin-top:20px;
+
+}
+.pharmacy_forget_container .pharmacy_image_container
+{
+	width:100%;
+	height:100%;
+	display: flex;
+}
+.pharmacy_forget_container .parent
+{
+	position: relative;
+}
+.pharmacy_forget_container .cancel_container
+{
+	margin-top:23px;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 15px;
+
+	margin-bottom: 10px;
+}
+.pharmacy_forget_container .cancelbutton
+{
+	color:rgb(131 175 64) !important;
+}
+.pharmacy_forget_container .checkbox_div
+{
+	margin-top:25px;
+}
+.pharmacy_forget_container .remember
+{
+	color:grey;
+	font-size: 15px;
+}
+.pharmacy_forget_container .MuiSvgIcon-root 
+{
+	font-size: 2.5rem !important;
+}
+.pharmacy_forget_container .PrivateSwitchBase-root-192 {
+   
+    padding-left: 0px !important;
+    padding-bottom: 15px !important;
+}
+.pharmacy_forget_container  button:focus
+{
+	outline: none !important;
+}
+.pharmacy_forget_container .clinic_login_container ::placeholder
+{
+	font-size: 10px;
+
+}
+.pharmacy_forget_container .login
+{
+    background-color: white;
+    display: flex;
+    border-radius: 50px;
+    height: 70px;
+    width:100%;
+    background-color: green;
+    color:white;
+    font-size: 2.5rem;
+    margin-top: 20px;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+	border:none;
+    box-shadow: 0px 10px 6px #00000030;
+	border-radius: 34px;
+	background: transparent linear-gradient(180deg, #83AE40 0%, #A2F622 100%) 0% 0% no-repeat padding-box;
+
+   
+}
+/* @media only screen and (min-width:959px) 
+{
+
+.pharmacy_forget_container .pharmacy_main_container
+{
+	width:87%;
+	height:auto;
+	
+}
+.pharmacy_forget_container .Welcometext{
+	font-size: 2.6rem !important;
+}
+
+} */
+
+
+
+.pharmacy_forget_container .MuiInputBase-input{
+
+  font-size: 15px !important;
+  height: 3rem !important;
+  color:rgb(151 151 151) !important;
+  padding: 6px 0 4px !important;
+}
+.pharmacy_forget_container .MuiFormControl-root .MuiInputBase-input:focus	
+{
+ font-size: 15px;
+  color:grey !important;
+}
+.pharmacy_forget_container .MuiInputLabel-root.Mui-focused	
+{
+   color:grey !important;
+}
+.pharmacy_forget_container .MuiInputLabel-formControl {
+	 font-size: 1.5rem !important;
+	 top:10px !important;
+	 font-family: 'Avenir-Black' !important;
+
+	}
+	.pharmacy_forget_container .MuiInput-underline:after {
+    transition:none !important; 
+    /* border-bottom: none !important; */
+    pointer-events: none
+}
+.pharmacy_forget_container .MuiInput-underline:before {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition:none !important; 
+    pointer-events: none;
+    /* border-bottom: 2px solid #000000ed !important; */
+}
+
+
+ .pharmacy_forget_container .MuiFormControl-root{
+    width:100% !important;
+}
+ .pharmacy_forget_container .MuiFormLabel-root {
+    line-height: 0!important;
+    font-family: 'Avenir-Black' !important;
+  }
+
+  .pas_msg{
+	text-align: center;
+	color:rgb(138, 138, 138) !important;
+  }
+
+
+
+  @media(max-width:1058px) {
+	.pharmacy_forget_container .Welcometext{
+		font-size: 2.4vw !important;
+	}
+	.pharmacy_forget_container .pharmacy_main_container
+	{
+		width:87%;
+		height:auto;
+	}
+	.pharmacy_text{
+	position: absolute;
+    top: -37px;
+    left: -243px;
+    align-items: center;
+    font-size: 4rem;
+    color: white;
+    transform: rotate(-90deg);
+    right: 584px;
+    text-shadow: 0px 3px 6px #000000E6;
+	
+	}
+}
+
+
+	@media only screen and (max-width:959px) {
+		.pharmacy_forget_container .pharmacy_image_grid{
+			display: none;
+		}
+		.pharmacy_forget_container .pharmacy_main_container
+	{
+		width:45%;
+		height:auto;
+		
+	}
+	.pharmacy_forget_container .pharmacy_grid_container
+	{
+		height:100vh !important;
+	}
+	.pharmacy_forget_container .Welcometext{
+		font-size: 2.6rem !important;
+	}
+	}

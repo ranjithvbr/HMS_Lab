@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+  <g id="print" transform="translate(0 -18.065)" opacity="0.9">
+    <g id="Group_11111" data-name="Group 11111" transform="translate(0 18.065)">
+      <g id="Group_11110" data-name="Group 11110" transform="translate(0 0)">
+        <path id="Path_21624" data-name="Path 21624" d="M18.444,23.421H16.323V18.854a.736.736,0,0,0-.667-.789H4.343a.736.736,0,0,0-.667.789v4.566H1.556A1.718,1.718,0,0,0,0,25.262V33.2a1.718,1.718,0,0,0,1.556,1.841H3.677v4.235a.736.736,0,0,0,.667.789H15.656a.736.736,0,0,0,.667-.789V35.041h2.121A1.718,1.718,0,0,0,20,33.2V25.262A1.718,1.718,0,0,0,18.444,23.421ZM5.01,19.643h9.98v3.777H5.01Zm9.98,18.844H5.01V32.032h9.98C14.99,32.227,14.99,38.339,14.99,38.487ZM18.667,33.2a.245.245,0,0,1-.222.263H16.323v-2.22a.736.736,0,0,0-.667-.789H4.344a.736.736,0,0,0-.667.789v2.22H1.556a.245.245,0,0,1-.222-.263V25.262A.245.245,0,0,1,1.556,25H18.444a.245.245,0,0,1,.222.263V33.2Z" transform="translate(0 -18.065)" fill="#545454"/>
+      </g>
+    </g>
+    <g id="Group_11113" data-name="Group 11113" transform="translate(13.293 26.476)">
+      <g id="Group_11112" data-name="Group 11112">
+        <path id="Path_21625" data-name="Path 21625" d="M342.662,199.988h-1.7a.8.8,0,0,0,0,1.578h1.7a.8.8,0,0,0,0-1.578Z" transform="translate(-340.298 -199.988)" fill="#545454"/>
+      </g>
+    </g>
+    <g id="Group_11115" data-name="Group 11115" transform="translate(6.444 35.715)">
+      <g id="Group_11114" data-name="Group 11114">
+        <path id="Path_21626" data-name="Path 21626" d="M171.421,399.834h-5.778a.8.8,0,0,0,0,1.578h5.778a.8.8,0,0,0,0-1.578Z" transform="translate(-164.977 -399.834)" fill="#545454"/>
+      </g>
+    </g>
+    <g id="Group_11117" data-name="Group 11117" transform="translate(6.444 33.226)">
+      <g id="Group_11116" data-name="Group 11116">
+        <path id="Path_21627" data-name="Path 21627" d="M171.421,346.006h-5.778a.8.8,0,0,0,0,1.578h5.778a.8.8,0,0,0,0-1.578Z" transform="translate(-164.977 -346.006)" fill="#545454"/>
+      </g>
+    </g>
+  </g>
+</svg>

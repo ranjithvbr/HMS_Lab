@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: rgba(0, 0, 0, 0.65) !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body *::-webkit-scrollbar {
+  width: 6px;
+  height: 4px;
+  transition: 0.3s ;
+ 
+}
+body *::-webkit-scrollbar-thumb {
+  background: #ADAAA8;
+  border-radius: 10px;
+}
+
+.MuiPaper-root{
+  color: inherit !important;
+}
+
+/* common btn css */
+
+.common_btn_cancel {
+  font-size: 1.25rem !important;
+  background-color: rgb(201, 201, 201) !important;
+  margin-right: 20px !important;
+  padding: 6px 16px !important;
+  border-radius: 2px;
+}
+
+.common_btn_cancel:hover {
+color:black;
+border-color: #c9c9c9;
+
+}
+
+.common_btn_cancel:active {
+  color:black;
+  border-color: #c9c9c9;
+  }
+
+.common_btn_submit {
+  font-size: 1.25rem !important;
+  background-color: rgb(38, 128, 235) !important;
+  color: #fff !important;
+  padding: 6px 16px !important;
+  border-radius: 2px;
+}
+
+.anticon-download{
+  display: none !important;
+}

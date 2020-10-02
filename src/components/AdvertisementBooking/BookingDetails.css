@@ -1,0 +1,439 @@
+.booking_createlist .ant-tabs-bar {
+    border-bottom: 0px !important;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab-active {
+    color: #86b149 !important;
+}
+
+/*.booking_createlist .ant-tabs-nav {
+       font-size: 2.5rem !important;
+   }*/
+.booking_createlist .ant-tabs-nav .ant-tabs-tab:active {
+    color: #096dd9;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab:hover {
+    color: none !important;
+}
+
+.booking_createlist .ant-tabs-ink-bar {
+    height: 4px !important;
+    background-color: #86b149 !important;
+
+}
+
+.booking_createlist .ant-tabs-nav-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px !important;
+    background-color: #F1F1F1;
+    box-shadow: 0px 3px 6px #00000029;
+    font-size: 16px !important;
+
+}
+
+.booking_createlist .ant-tabs-nav-container {
+    margin: 15px 0px 0px 0px;
+    border-radius: 4px;
+    padding-right: 15px;
+}
+
+.booking_createlist .ant-tabs-content.ant-tabs-content-animated{
+    width: 97%;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab {
+    /*padding:16px 25px !important;*/
+    color: #333333 !important;
+    /*font-size: 25px !important;*/
+}
+
+.booking_createlist .ant-tabs-bar .ant-tabs-top-bar {
+    background-color: #eee !important;
+    box-shadow: 11px 23px 16px -21px !important;
+}
+
+.booking_createlist .formdiv {
+    margin-bottom: 10px;
+}
+
+/* .deal_container{} */
+/* padding: 0px 15px 0px 15px; */
+
+.booking_createlist .formdiv .MuiFormControl-marginNormal {
+    width: 100%;
+}
+
+/* .date_box_sizing{
+       width: 80%;
+   } */
+/* .booking_createlist .MuiSvgIcon-root{
+    font-size: 2rem !important;
+   } */
+/* .booking_createlist .radio_buttons .formdiv{
+       display:flex !important;
+       align-items: center !important;
+   
+   } */
+.radio_button {
+    font-weight: 600;
+}
+
+/* .Deal_active_check .MuiSvgIcon-root{
+    font-size: 2.5rem !important;
+    
+   } */
+.validdate_ {
+    display: flex;
+    align-items: center;
+
+}
+
+.validdate_picker .formdiv .MuiFormControl-marginNormal {
+    width: 80% !important;
+}
+
+.Deal_activecheck .MuiCheckbox-root {
+    padding: 0px 5px 0px 0px !important;
+}
+
+/* .datepicker_active{
+       width:60%;
+   } */
+.datepicker_active .formdiv {
+    width: 100%;
+}
+
+.createbutton-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 15px;
+}
+
+.create_cancel {
+    font-size: 1.25rem !important;
+    background-color: rgb(201, 201, 201) !important;
+    color: #333 !important;
+    padding: 6px 16px !important;
+    margin-right: 20px !important;
+    font-family: "Roboto-Bold";
+    text-transform: none !important;
+    border-radius: 2px !important;
+
+}
+
+.media_save {
+    background-color: rgb(38, 128, 235) !important;
+    color: #fff !important;
+    font-size: 1.25rem !important;
+    padding: 6px 16px !important;
+    font-family: "Roboto-Bold";
+    border-radius: 2px !important;
+    text-transform: none !important;
+}
+
+/* .revenueclinic_container .formdiv{
+       
+   } */
+.createbutton-container .MuiButton-root {
+    min-width: 80px !important;
+}
+
+.half_div {
+    padding: 9px 9px 9px 0px !important;
+}
+
+.booking_createlist .ant-upload.ant-upload-select {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    width: 100%;
+}
+
+.browse_files {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.booking_createlist .ant-upload {
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center;
+    line-height: 2.2 !important;
+    width: 100%;
+    color: #666666 !important;
+    padding: 0px 0px 0px 3px !important;
+    font-family: "Roboto" !important;
+}
+
+.button_browse {
+    /* background-color: #2680EB !important;
+       color:#fff !important;
+       size: 17px !important;
+       border-radius: 0px !important;
+       line-height: 2.3 !important;
+       font-family: "Roboto" !important; */
+    background-color: #2680EB !important;
+    color: #fff !important;
+    size: 17px !important;
+    border-radius: 0px !important;
+    line-height: 2.3 !important;
+    font-family: "Roboto" !important;
+    position: absolute !important;
+    right: 140px !important;
+    cursor: pointer;
+}
+
+.create_container {
+    padding: 10px;
+    color: #666666 !important;
+    font: "Roboto" !important;
+}
+
+.datebook_container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.datebook_button {
+    background: #30C536 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 2px 5px #00000033 !important;
+    border-radius: 2px !important;
+    opacity: 1 !important;
+    color: #fff !important;
+    font-size: 13px !important;
+    padding: 6px 16px !important;
+    font-weight: 600 !important;
+    font-family: "Roboto" !important;
+}
+
+.half_full_container {
+    height: 75px;
+    align-items: center;
+    justify-content: flex-start;
+    display: flex;
+}
+
+.fees_cost {
+    color: #666666 !important;
+    /* font-weight: 600; */
+}
+
+/* .booking_createlist .formdiv .labeltxt {
+     font-family: "Roboto" !important;
+     color:#666666 !important;
+     font-weight: 0 !important;
+     opacity:1 !important;
+   } */
+.label {
+    font-weight: normal !important;
+}
+
+.textclr {
+    color: #83AF40;
+    font-family: "Roboto-Medium" !important;
+}
+
+.calendar_container {
+    margin-top: 10px;
+}
+
+.info_icon {
+    color: #fbd879 !important;
+    margin-left: 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width:1000px) {
+    .booking_createlist .formdiv .MuiFormControl-marginNormal {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width:1125px) {
+    .booking_createlist .formdiv .MuiFormControl-marginNormal {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 959px) {
+
+    .booking_createlist {
+        height: 100%;
+    }
+
+    .create_container {
+        padding: 20px 20px 0px 20px;
+    }
+}
+
+.location_label {
+    font-size: 15px;
+    font-weight: 600;
+    margin-right: 10px;
+    color: #666666;
+    white-space: nowrap;
+}
+
+.select_location {
+    width: 100%;
+    height: 30px;
+    color: #666666;
+    font-size: 15px;
+    margin-bottom: 1.3rem;
+}
+
+.advertise_location {
+    /* width: 80%; */
+    margin-top: 30px;
+}
+
+.advertise_location .ant-select-selection:hover{
+    border-color: none;
+}
+
+.advertise_location .ant-select-selection--single {
+    border-radius: 2px;
+    box-shadow: 0 0 1.5px 0px #ccc;
+}
+
+.html__input {
+    width: 100%;
+    padding: 4px;
+    border: none;
+    outline: 0;
+    box-shadow: 0 0 1.5px 0px #ccc;
+    border: 1px solid #ccc;
+    border-radius: 2px !important;
+}
+
+/* .advertise_cost{
+    width: 80%;
+}
+.advertise_cost--unique{
+    width: 80%;
+} */
+.html__input:focus {
+    outline: none;
+}
+
+/* .advertise_upload {
+    margin-top: 15px;
+
+} */
+
+.validation__error {
+    font-size: 12px;
+    color: red;
+}
+
+
+.validation__error--size {
+    font-size: 12px;
+    color: red;
+}
+
+.booking_createlist--advertisement {
+    height: 540px !important;
+}
+
+.MuiDialog-paperWidthXs {
+    max-width: 45% !important;
+}
+
+.ant-notification {
+    z-index: 999999999999 !important;
+}
+
+.myimage_upload span {
+    opacity: 0.35;
+}
+
+
+.advertise_uploadfile~div .ant-upload-list {
+    display: none;
+}
+
+
+.myimage_upload span {
+    opacity: 0.35;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.upload__pics {
+    display: flex;
+    border: 1px solid black;
+    width: 76%;
+    height: 46%;
+    cursor: pointer;
+}
+
+.myimage_upload {
+    display: flex;
+}
+
+
+.hideFile {
+    display: none !important;
+}
+
+.upload__pics--name {
+
+    width: 90%;
+    display: flex;
+    align-items: center;
+    /* margin-top: 5px; */
+    padding-top: 10px;
+}
+
+.upload__container_advertise {
+    position: relative;
+    /* width: 75%; */
+    border: 1px solid #ccc;
+    padding: 5px;
+    border-radius: 2px !important;
+    height: 33px;
+}
+
+.upload__container--err {
+    position: relative;
+    width: 100%;
+    padding: 3px;
+    border-radius: 2px !important;
+    border: 1px solid red;
+}
+
+.html__input-box {
+    border: 0;
+    width: 93%;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.html__input-box:focus {
+    outline: none;
+}
+
+.upload__container--btn {
+    position: absolute;
+    /* left: -30px; */
+    right: -140px;
+    top: -12px;
+    padding: 11px;
+    cursor: pointer;
+}
+
+.upload__pic {
+    width: 20px;
+
+}
+
+.upload__container_advertise input::placeholder {
+    opacity: .5;
+}

@@ -1,0 +1,16 @@
+.tabfontUploadResult .MuiTab-wrapper{
+ color: #595959 !important;
+ font-size: 18px;
+}
+
+
+
+.tabfontUploadResult .Mui-selected .MuiTab-wrapper{
+  color: #82AE3F !important;
+  font-size: 18px;
+ }
+
+ .tabfontUploadResult .MuiTabs-indicator{
+   background-color: #82AE3F;
+   height: 3px;
+ }

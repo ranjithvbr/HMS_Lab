@@ -1,0 +1,42 @@
+.payment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 112px);
+}
+.payment_logo
+{
+    width: 140px !important;
+    height: 100px !important;
+    /* margin-left: 42%;
+    margin-top: 5%; */
+    margin-bottom: 30px;
+    margin-top: 60px;
+}
+.okay{
+   margin-bottom: 15px;
+   border-radius: 60px;
+}
+.payment_received{
+    color: 	#82a700;
+    text-align: center;
+    font-size: 18px;
+}
+.successfull{
+    color:rgb(192,192,192);
+    text-align: center;
+}
+.email{
+    text-align: center;
+    font-size: 18px;
+    color:#515050;
+}
+.receive_msg{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.receive_msg{
+    font-size: 18px;
+    color:#ABA9A9 !important;
+}

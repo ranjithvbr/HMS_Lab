@@ -1,0 +1,64 @@
+.plus-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.lab_upload_text {
+    font-size: 18px;
+    color: #86b149;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-bottom: 0px !important;
+}
+
+.labviewheader {
+    width: 100%;
+    padding: 10px;
+    background: #F8F8F8 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 5px 5px 0px 0px;
+    opacity: 1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.person_age {
+    color: #86b149;
+    font-size: 1.25rem;
+    margin-bottom: 0px !important;
+}
+
+.viewdetails_person {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.viewdetails_persondate {
+    display: flex;
+    width: 15%;
+    justify-content: space-between;
+    align-items: center;
+    color: #86b149;
+    font-size: 1.25rem;
+}
+
+.viewdetails_persondate p {
+    margin-bottom: 0px !important;
+}
+
+.current_date_container {
+    display: flex;
+    align-items: center;
+}
+
+.currentdate {
+    margin-right: 15px;
+}
+
+.icon_head .injected-svg {
+    cursor: pointer;
+}

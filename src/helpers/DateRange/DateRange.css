@@ -1,0 +1,204 @@
+.daterangeMaster {
+    z-index: 1;
+}
+
+.daterangeMaster .rdrDateRangePickerWrapper {
+    border: 1px solid #c3bbbb;
+    border-radius: 3px;
+}
+
+.daterangeMaster .rdrDefinedRangesWrapper, .daterangeMaster .rdrDateRangeWrapper {
+    border-radius: 3px;
+}
+
+.daterangeMaster .rdrDefinedRangesWrapper {
+    border: 1px solid #c3bbbb;
+    border-left: none;
+    background-color: #eff2f7;
+}
+
+.daterangeMaster .rdrDefinedRangesWrapper button {
+    background-color: inherit;
+    /* color: white; */
+    /* border-bottom: 1px solid; */
+}
+
+/* .daterangeMaster .rdrCalendarWrapper {
+    border: 1px solid #c3bbbb;
+    border-radius: 5px;
+}
+
+.daterangeMaster .rdrStartEdge,
+.daterangeMaster .rdrInRange,
+.daterangeMaster .rdrEndEdge{
+    color: #86b149 !important;
+}
+
+
+.daterangeMaster .rdrDayStartPreview,
+.daterangeMaster .rdrDayInPreview,
+.daterangeMaster .rdrDayEndPreview {
+    color: #82AF3F !important;
+}
+
+.daterangeMaster .rdrWeekDay{
+    color: #86b149;
+} */
+
+/* Range Picker Common Css*/
+
+.rangePicker_Master {
+    /* margin: 10px 0px;
+    height: 50px;
+    border: 1px solid #e4dede; */
+    display: flex;
+    align-items: center;
+    margin-right: 45px;
+}
+
+.rangePicker_Label {
+    font-size: 16px;
+    margin-left: 30px;
+    margin-right: 10px;
+}
+
+.rangePicker_Master .formdiv {
+    width: 120% !important;
+    margin-top: 20px;
+    height: 51.5px;
+}
+
+.rangePicker_Master .brdrcls {
+    width: 90% !important;
+    height: 30px;
+    font-size: 13.5px;
+    padding-inline-start: 8px !important;
+    text-overflow: ellipsis;
+    border-right: none !important;
+}
+
+.rangePicker_Master input::placeholder {
+    /* Chrome/Opera/Safari */
+    color: #ccc;
+}
+
+.rangePicker_Master input {
+    cursor: pointer;
+}
+
+.rangePicker_Calendericon {
+    /* z-index: 1;
+    color: gray;
+    position: relative;
+    left: 16px;
+    bottom: 1px; */
+    z-index: 1;
+    color: gray;
+    width: 24px !important;
+    height: 30px !important;
+    padding: 2px 6px 2px 2px;
+    border: 1px solid #ccc;
+    border-left: none;
+    position: relative;
+    background-color: white;
+    bottom: 1px;
+    left: 7px;
+    bottom: 1px;
+}
+
+.rangePicker_Calendericon:hover {
+    /* background-color: #e6dfdf;
+    border-radius: 10px; */
+    cursor: pointer;
+}
+
+.rangePicker_InpputIconAlign {
+    display: flex;
+    align-items: center;
+}
+
+.rangePicker_cancelbtn {
+    font-size: 12px !important;
+    background-color: #b3b3b3 !important;
+    color: #333 !important;
+    margin-right: 20px !important;
+    border-radius: 4px !important;
+    height: 25px;
+}
+
+.rangePicker_okbtn {
+    background-color: #eb7826 !important;
+    color: #fff !important;
+    font-size: 12px !important;
+    border-radius: 4px !important;
+    height: 25px;
+    margin-right: 20px !important;
+}
+
+.rangePicker_btncontainer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border: 1px solid #c3bbbb;
+    height: 35px;
+    background-color: #eff2f7;
+    border-top: none;
+}
+
+.daterangeMaster .rdrMonthAndYearWrapper {
+    height: 35px;
+    padding-top: 0px;
+}
+
+.daterangeMaster .rdrDefinedRangesWrapper {
+    width: 185px;
+    border-bottom: none;
+    border-top: none;
+}
+
+.daterangeMaster .rdrCalendarWrapper {
+    font-size: 11.5px;
+}
+
+.rangePicker_positionCenter {
+    position: relative;
+    z-index: 1300;
+    right: 0px;
+    bottom: 0px;
+    top: 0px;
+    left: 0px;
+}
+
+/* @media screen and (max-width: 883px) {
+    .daterangeMaster .rdrCalendarWrapper {
+        font-size: 9px;
+    }
+}
+
+@media screen and (max-width: 968px){
+    .rangePicker_Label{
+        width: 17%;
+    }
+}
+
+@media screen and (max-width: 860px){
+    .rangePicker_Master .brdrcls{
+        padding-inline-start: 5px !important;
+        padding-inline-end: 30px !important;
+    }
+    .rangePicker_Calendericon{
+        left:17px
+    }
+}
+
+@media screen and (max-width: 800px){
+    .rangePicker_Label{
+        font-size: 12px;
+    }
+    .rangePicker_Master .brdrcls{
+        padding-inline-start: 5px !important;
+    }
+    .rangePicker_Calendericon{
+        left:10px
+    }
+} */

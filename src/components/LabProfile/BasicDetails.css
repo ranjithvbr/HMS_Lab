@@ -1,0 +1,29 @@
+.basicdetails_firstgrid{
+    width:80%;
+    height:auto;
+}
+.basicdetails_container{
+    width:100%;
+    height:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+} 
+.basicdetails_child{
+    width:100%;
+    height:100%;
+}
+.basicdetails_container .formdiv{
+    margin-bottom: 10px !important;
+}
+.basic_details_container{
+    height:390px;
+    margin-bottom: 20px;
+}
+.basicdetails_child .formdiv .brdrcls{
+font-size: 1.5rem;
+}
+
+.basicProfilebtn{
+    padding-right: 50px;
+}

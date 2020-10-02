@@ -1,0 +1,202 @@
+.booking_createlist .ant-tabs-bar {
+    border-bottom: 0px !important;
+    margin-bottom: 0px;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab-active {
+    color: #86b149 !important;
+}
+
+/*.booking_createlist .ant-tabs-nav {
+     font-size: 2.5rem !important;
+ }*/
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab:active {
+    color: #096dd9;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab:hover {
+    color: none !important;
+}
+
+.booking_createlist .ant-tabs-ink-bar {
+    height: 4px !important;
+    background-color: #86b149 !important;
+}
+
+.booking_createlist .ant-tabs-nav-wrap {
+    background-color: #eee;
+}
+
+.booking_createlist .ant-tabs-nav-container {
+    margin: 15px 0px 0px 0px;
+    border-radius: 4px;
+}
+
+.booking_createlist .ant-tabs-nav .ant-tabs-tab {
+    color: #333333 !important;
+}
+
+.booking_createlist .ant-tabs-bar .ant-tabs-top-bar {
+    background-color: #eee !important;
+    box-shadow: 11px 23px 16px -21px !important;
+}
+
+
+.deal_container {
+    padding: 0px 15px 0px 15px;
+}
+
+/* .booking_createlist .formdiv .MuiFormControl-marginNormal {
+    width: 60%;
+} */
+
+/* .datepicker_active .formdiv .MuiFormControl-marginNormal {
+    width: 100%;
+} */
+
+/* .booking_createlist .MuiSvgIcon-root{
+  font-size: 2rem !important;
+ } */
+
+/* .booking_createlist .radio_buttons .formdiv{
+     display:flex !important;
+     align-items: center !important;
+ 
+ } */
+
+.radio_button {
+    font-weight: 600;
+}
+
+/* .Deal_active_check .MuiSvgIcon-root{
+  font-size: 2.5rem !important;
+  
+ } */
+
+.validdate_picker {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+}
+
+.formdiv .MuiInputBase-root {
+    cursor: text;
+    font-size: 1.3rem;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+    border-radius: 2px;
+    box-shadow: 0 0 1.5px 0px #ccc;
+    color: #797777;
+    height:33px;
+}
+
+.MuiInput-underline:hover:not(.Mui-disabled):before{
+    border-bottom: 1px solid #ccc !important;
+}
+
+.formdiv .MuiInputBase-root:hover{
+    outline: none;
+}
+
+.Deal_activecheck .MuiCheckbox-root {
+    bottom: 1.51px;
+}
+
+.Deal_activecheck {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+/* .Deal_activecheck div:first-child{
+    position: relative;
+    right: 12px;
+} */
+
+.datepicker_active .formdiv {
+    width: 100%;
+}
+
+.create_cancel {
+    font-size: 1.25rem !important;
+    background-color: rgb(201, 201, 201) !important;
+    color: #333 !important;
+    padding: 6px 16px !important;
+    margin-right: 20px !important;
+    font-family: "Roboto-Bold";
+    text-transform: none !important;
+}
+
+.media_save {
+    background-color: rgb(38, 128, 235) !important;
+    color: #fff !important;
+    font-size: 1.25rem !important;
+    padding: 6px 16px !important;
+    font-family: "Roboto-Bold";
+    text-transform: none !important;
+}
+
+.createbutton-container .MuiButton-root {
+    min-width: 80px !important;
+}
+
+.MuiInput-underline:before{
+    border: none !important; 
+}
+
+.booking_createlist .formdiv .selectbox .ant-select-selection--single {
+    padding: 0px !important;
+}
+
+.radio_buttons .MuiSvgIcon-root {
+    font-size: 2rem !important;
+}
+
+.radio_buttons {
+    font-size: 11px;
+}
+
+.radio_buttons .MuiTypography-body1 {
+    font-size: 12px !important;
+}
+
+.radio_buttons .radiobtn_parent {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 959px) {
+    .booking_createlist {
+        height: 100%;
+    }
+    .booking_createlist .ant-tabs-nav-container {
+        margin: 20px 20px;
+    }
+    .validdate_picker {
+        justify-content: flex-start;
+    }
+}
+
+.valid_toErrormsg{
+    font-size: 12px;
+    /* margin-top: 4px; */
+    color: red;
+    height: 15px;
+    position: relative;
+    bottom: 15px;
+}
+
+.deal_radiopercent{
+    display: flex;
+}
+
+.deal_radiopercent div:first-child{
+    width: 90%;
+}
+
+.deal_kwdalign{
+    margin-top: 30px;
+    font-size: 13px;
+}

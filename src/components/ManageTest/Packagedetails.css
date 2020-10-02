@@ -1,0 +1,146 @@
+.general_button {
+    background-color: #82af3f;
+    font-size: 20px;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 240px;
+    margin-left: 240px;
+}
+
+.butt_parent {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8px;
+}
+
+.Instruction_text_edit {
+    color: #82af3f;
+    font-size: 18px;
+    padding-bottom: 5px;
+}
+
+.green_uploadint {
+    height: 15px !important;
+    background-color: #86B149;
+    border-radius: 50px;
+}
+
+.green_upload_container {
+    display: flex;
+    align-items: flex-start;
+    padding-top: 8px;
+}
+
+.para_edit {
+    padding-left: 9px;
+    font-size: 16px;
+    flex-wrap: wrap !important;
+    position: relative;
+    bottom: 3px;
+}
+
+.border_edit {
+    border-left: 2px solid green;
+    min-height: 160px;
+}
+
+.Paper_edit {
+    height: 50px;
+    margin: 6px;
+}
+
+.common_row {
+    display: flex;
+    /* justify-content: space-evenly; */
+    justify-content: space-between;
+    /* width: 100%; */
+    /* margin: 0px !important; */
+}
+
+.kwd_edit {
+    height: 50px;
+    color: white;
+    background-color: #86B149;
+    border: none;
+    font-size: 18px;
+    padding: 10px 15px;
+}
+
+.blood_edit {
+    padding: 17px;
+    font-size: 18px;
+}
+
+.overall_paper_div {
+    width: 50%;
+}
+
+.statusbtn {
+    display: flex;
+    justify-content: center;
+    color: #82af3f;
+    font-size: 12px;
+}
+
+.textContent {
+    text-align: center;
+}
+
+.rowContent {
+    justify-content: space-between;
+}
+
+.instruction,
+.test {
+    color: #82af3f;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 6px;
+}
+
+.instructiondot {
+    width: 10px;
+    border-radius: 50%;
+    background: #82af3f;
+    height: 15px;
+    padding: 8px;
+}
+
+.instructionContent {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+.rowMinHeight {
+    min-height: 30px;
+    margin: 0px;
+}
+
+.testContentLeft {
+    color: white;
+    background: #82af3f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.rowMinHeight {
+    min-height: 55px;
+    margin: 0px;
+}
+
+.testContentRight {
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 4px;
+    font-size: 10px;
+}
+
+.mainRow {
+    margin: 0px;
+    justify-content: space-between;
+}

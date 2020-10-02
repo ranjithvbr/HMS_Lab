@@ -1,0 +1,11 @@
+.cell_eye {
+  padding-left: 0px !important;
+}
+
+.managetestView .MuiDialog-paperWidthMd{
+  width: 50%;
+}
+
+.managecat_width .MuiDialog-paperWidthXs{
+  width: 32% !important;
+}

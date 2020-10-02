@@ -1,0 +1,112 @@
+.deal_list_paper_maincontainer {
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 0px 0px 20px;
+  padding-right: 8px;
+  overflow-y: scroll;
+  height: 370px;
+}
+
+.deal_list_paper_maincontainer .MuiGrid-root.MuiGrid-container{
+  height: 368px;
+}
+
+.date_view {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+  font-size: 1.5rem !important;
+}
+
+.list_test_report {
+  color: #333;
+  font-size: 1.5rem !important;
+}
+
+.view {
+  font-size: 1.5rem !important;
+  color: #97b866 !important;
+}
+
+.iconsdiv {
+  font-size: 2rem !important;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  position: relative;
+  margin-left: 49%;
+}
+
+.iconsdiv img,.iconsdiv svg{
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.edit_icon_div {
+  fill: #97b866 !important;
+}
+
+.delete_icon_div {
+  fill: #d11a2a !important;
+}
+
+.deal_paper {
+  padding: 10px;
+}
+
+.listTitleWidth{
+  width: 30.5%;
+}
+
+.aligndeallistdata{
+  display: flex;
+  justify-Content: space-between;
+  padding: 10px;
+}
+
+.aligndeallistdata div span{
+ color:#4A4A4A
+}
+
+.aligndeallistdata div div{
+  color:#989898; 
+  font-size: 13.7px;
+ }
+
+ .aligndeallistdataRow2{
+  display: flex;
+  padding: 0px 10px 0px 10px;
+ }
+
+ .aligndeallistdataRow2 div span{
+  color:#4A4A4A;
+ }
+ 
+ .aligndeallistdataRow2 div div{
+   color:#989898; 
+  font-size: 13.7px;
+  }
+ 
+.dyndeallistPaper{
+  margin-bottom: 10px;
+  margin-left: 4px;
+}
+
+.deal_list_paper_maincontainer .MuiPaper-elevation1{
+  border: 1px solid #bbb8b8;
+}
+
+.titleDealFlex{
+  display: flex;
+  width: 41%;
+}
+
+.listTitleWidth{
+  width: 74.5%;
+}
+
+ 

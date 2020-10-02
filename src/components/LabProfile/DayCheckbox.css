@@ -1,0 +1,96 @@
+.checkbox_divider
+{
+ margin-bottom: 10px !important;
+ height:2px !important;
+}
+.select_timepicker
+{
+    display:flex;
+    align-items: center;
+}
+.workinghours_details{
+    height:390px;
+    margin-bottom: 20px;
+     overflow-y:none;
+}
+.time- {
+    font-size: 20px;
+    position: relative;
+    top: 15px;
+    padding: 0px 10px 0px 10px;
+}
+.form_checkbox
+{
+    margin-left: 20px;
+}
+.MuiCheckbox-colorSecondary.Mui-checked {
+    color: #86b149 !important;
+}
+.timepicker_container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+.dialog_contentdiv{
+    padding:20px !important;
+     overflow-y:none;
+}
+.labtime_div{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:55%;
+}
+.lab_time{
+    font-size: 1.25rem !important;
+}
+.lab_time{
+    margin-bottom: 0px !important;
+}
+.close_days{
+font-size: 17px;
+background-color: #da1f4a;
+color: white;
+border-radius: 50%;
+padding: 2px;
+position: relative;
+top: 2px;
+}
+.addmore_hours{
+    color: #2196F3  !important;
+    font-size: 1.5rem;
+}
+.label_timepicker_container{
+    display:flex;
+    align-items: center;
+    justify-content:flex-start;
+    width:35%;
+}
+.workinghours_details .formdiv .MuiFormControl-marginNormal{
+  
+    border:0px !important;
+    border-radius:none !important;
+    width:100%;
+}
+.workinghours_details.formdiv .MuiInputBase-input{
+    font-size:1.25rem !important;
+    /* color:#333 !important;   */
+    margin-left: 5px !important;
+   
+}
+.workinghours_details .MuiInput-underline:before
+{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.42) !important;
+}
+.workinghours_details .MuiInput-underline:after{
+    border-bottom: 2px solid #3f51b5 !important;
+}
+.workinghours_details .MuiFormControl-marginNormal {
+    margin-bottom: 0px !important;
+}
+ @media only screen and (max-width: 768px){
+  .labtime_div {
+      width:100%;
+  }
+}

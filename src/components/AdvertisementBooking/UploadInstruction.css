@@ -1,0 +1,15 @@
+.green_uploadint{
+    width:15px;
+}
+.upload_ins{
+    font-size: 1.5rem;
+    margin-left: 10px;
+    position: relative;
+    top: 3px;
+}
+.green_upload_container{
+    margin-bottom: 15px;
+}
+.clrchange{
+    color:red !important;
+}

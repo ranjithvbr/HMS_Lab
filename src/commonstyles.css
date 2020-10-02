@@ -1,0 +1,113 @@
+.dashboard_header {
+  padding: 10px;
+  background: #f8f8f8 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000029;
+  border-radius: 5px 5px 0px 0px;
+  opacity: 1;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.dashboard_title {
+  font-size: 18px;
+  color: #86b149;
+  margin-top: 10px;
+  margin-left: 2%;
+  /* font-weight: 500; */
+}
+.currentdate {
+  font-size: 1.25rem;
+}
+.clinic_edit {
+  font-size: 18px;
+  padding: 15px;
+  margin-top: 2px;
+}
+.clinic_polyclinic_edit {
+  display: flex;
+}
+.icon_head {
+  display: flex;
+  padding-right: 3px;
+}
+.clinic_group_details {
+  margin-right: 5px;
+}
+.clinic_group_details .MuiButton-root {
+  text-transform: none !important;
+  border-radius: 0px !important;
+  /* font-size: 1.5rem !important; */
+  padding: 5px 15px !important;
+  border: none !important;
+  box-shadow: 0px 2px 5px #00000033 !important;
+}
+
+.clinic_details:focus {
+  background-color: #0b51c5 !important;
+}
+.clinic_details {
+  color: white !important;
+  font-size: 14px !important;
+  background-color: #468df0 !important;
+  border: none;
+  padding: 8px;
+  width: 120px !important;
+  height: 42px !important;
+  font-family: "Roboto" !important;
+}
+@media screen and (max-width: 990px) {
+  .dashboard_header .dashboard_title {
+    font-size: 16px;
+  }
+  .this_week {
+    background-color: #0b51c5 !important;
+    font-size: 10px;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .this_month {
+    background-color: #468df0 !important;
+    font-size: 10px;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .this_year {
+    background-color: #468df0 !important;
+    font-size: 10px;
+    padding: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .mr-2 {
+    font-size: 12px;
+  }
+}
+
+/* <div className="currentdate"><FaChevronLeft/>{current_date}<FaChevronRight/></div> */
+.MuiDialog-paper {
+  overflow-y: visible !important;
+}
+
+
+.appbar_sideicons a:focus{
+  outline: none !important;
+  text-decoration: none;
+}
+
+/* toaster */
+
+.ant-notification-notice-closable{
+  padding: 14px 5px 0px 16px;
+}
+.ant-notification-notice-description{
+    position: relative;
+    bottom: 16px;
+    margin-right: 40px;
+}
+.lab_dashboard_buttons_wrap a{
+  text-decoration: none !important;
+}

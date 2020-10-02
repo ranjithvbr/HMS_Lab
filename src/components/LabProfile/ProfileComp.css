@@ -1,0 +1,25 @@
+.profileback_first {
+    background: transparent linear-gradient(90deg, #a5cf64 0%, #cde6a5 100%) 0% 0%
+      no-repeat padding-box;
+    opacity: 1;
+    width: 100%;
+    height: 50%;
+    color: #ffff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 25px 0px 0px 20px;
+  }
+  .profile_background {
+    height: 650px;
+  }
+  
+  .profilepaper_container {
+    top: -222px;
+    position: relative;
+  }
+  .profilebackground {
+    background: #ffffff 0% 0% no-repeat padding-box !important;
+    box-shadow: 0px 3px 6px #00000029 !important;
+    border-radius: 5px !important;
+  }
+  

@@ -1,0 +1,105 @@
+
+.first_dashed_class{
+    border-bottom:1px #c5c0c0  dashed ;
+}
+.first_half{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-bottom: 3px;
+}
+.second_half{
+    display: flex;
+    padding-top: 15px;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+.full_content{
+    display: block;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 15px;
+}
+.contents_editing{
+    font-size: 15px;
+    display: block;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2px;
+}
+.jabriya_edit{
+    color: blue;
+    text-decoration: underline;
+}
+.trianing_category_edit{
+    display: flex;
+    justify-content:space-between;
+    font-size: 12px;
+}
+.watchreport_edit{
+    padding-top: 8px;
+}
+.inside_contents{
+    padding: 3px;
+}
+.inside_contents_top{
+    padding-bottom: 6px;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+.content_parent{
+    padding: 13px;
+    padding-top: 25px;
+}
+.border_edit{
+    border-bottom:1px #c5c0c0  dashed ;
+    margin-right: 13px;
+    margin-left: 13px;
+}
+.store_edit{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 18px;
+    padding-bottom: 15px;
+}
+.fasttrack_edit{
+    padding: 13px;
+    font-size: 12px;
+    padding-top: 8px;
+}
+.button_edit{
+    border: 1px solid;
+    padding: 5px 12px;
+    background-color:#82a700;;
+    border-radius :50px;
+    display: flex;
+    align-items: center;
+    top: -11px;
+    position: absolute;
+    right: 36%;
+    color: white;
+    border: none;
+}
+.package_head{
+    display: block;
+    padding: 10px;
+    padding-bottom: 21px;
+}
+.card_edit{
+    border-radius: 5px;
+}
+.packagehistory_edit{
+    color: 	#82a700 !important;
+    font-size: 18px;
+    border-bottom:2px #c5c0c0  dashed ;
+    padding-bottom: 5px;
+}
+.paperedit{
+    background-color: #ddd !important;
+    padding: 10px;
+}
+
+.Dialogmodal .DialogContent .WithStyles\(ForwardRef\(DialogContent\)\)-root-295{
+    padding: 21px;
+}

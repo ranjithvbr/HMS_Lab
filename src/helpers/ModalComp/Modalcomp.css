@@ -1,0 +1,66 @@
+.Dialogmodal .MuiDialogContent-dividers {
+    border-bottom: 0px !important;
+    border-top: 0px !important;
+    /* overflow: hidden; */
+}
+
+.Dialogmodal h6 {
+    color: #333;
+    font-size: 18px;
+    font-family: Roboto_m;
+}
+
+.modaldiv .cancelbtn {
+    border-radius: 0;
+    background-color: #f1221a;
+    color: white;
+    box-shadow: 0;
+}
+
+.Dialogmodal .MuiDialogTitle-root {
+    box-shadow: 0px 0px 3.5px 0px #ccc;
+    border-bottom: 1px solid #ccc;
+    /* display: none; */
+}
+
+.Dialogmodal .MuiIconButton-root:hover {
+    background-color: transparent;
+}
+
+.Dialogmodal .closebtn {
+    background-color: rgb(201, 201, 201);
+    border-radius: 0px;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    /* padding: 9px; */
+    margin-right: 10px;
+    color: #000;
+    font-size: 13px;
+    width: 90px;
+}
+
+.Dialogmodal .createbtn {
+    background-color: #2580eb;
+    border-radius: 0px;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    /* padding: 9px; */
+    margin-right: 10px;
+    color: #fff;
+    font-size: 13px;
+    width: 90px;
+}
+
+.Dialogmodal .createbtn:hover {
+    background-color: #2580eb;
+}
+
+.customcloseicon:hover {
+    border-radius: 25px !important;
+    background-color: #bbb7b7 !important;
+    color: black !important;
+}
+
+.customcloseicon:focus {
+    outline: none;
+}

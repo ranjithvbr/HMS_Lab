@@ -1,0 +1,145 @@
+ .lab_mediauploads .media_upload{
+     color:#333;
+     font-size: 1.5rem;
+ }
+ .lab_mediauploads .clinicButton-container{
+     width:100% !important;
+     display:flex !important;
+     justify-content: space-between !important;
+     align-items: center !important;
+     border: 1px solid #ccc !important;
+     font-size: 1.25rem !important;
+     border-radius: 2px !important;
+     box-shadow: 0 0 1.5px 0px #ccc;
+ }
+ 
+ .lab_mediauploads .upload-field .ant-upload.ant-upload-select{
+     display:block !important;
+ }
+.lab_mediauploads  .labupload_container{
+     width:100%;
+
+ }
+ .lab_mediauploads .upload-field{
+     width:100%;
+ }
+ 
+.lab_mediauploads  .lab_mediauploads .formdiv .brdrcls {
+    font-size: 1.5rem !important;
+    padding: 8px !important;
+ }
+
+.lab_mediauploads .uploadimage{
+       width:17px;
+ }
+.lab_mediauploads .clinicmedia_upload{
+     font-size: 1.5rem;
+     margin-bottom: 10px !important;
+     color:#333;
+     margin-top: 10px;
+ }
+ .lab_mediauploads .lab_Upload{
+    font-size: 1.25rem !important;
+    background-color: rgb(201, 201, 201) !important;
+    color:#333 !important;
+    padding: 6px 16px !important;
+    margin-right: 20px !important;
+ }
+ .labmediabutton-container{
+     display: flex;
+     align-items: center;
+     justify-content: flex-end;
+     width:100%;
+     margin-top: 20px;
+ }
+ .labcancel-form{
+     background-color: rgb(38, 128, 235) !important;
+     color:#fff !important;
+     font-size: 1.25rem !important;
+     padding:6px 16px !important;   
+ }
+ .labmedia_checkbox{
+     margin-top: 10px;
+ }
+ .lab_active{
+     color:#333 !important;
+     font-size: 1.5rem;
+     position: relative;
+     top: 10px;
+ }
+.media_checkbox_container{
+    margin-top: 10px !important;
+}
+.media_checkbox_container .MuiIconButton-root{
+    padding: 15px 10px 0px 0px !important;
+}
+.info_icon{
+    color:#fbd879 !important;
+    margin-left: 5px;
+}
+.labmedia_button .MuiButton-text {
+    padding: 8px 8px !important;
+}
+.lab_mediauploads .labeltxt{
+  color:#333 !important;
+}
+.media_title_head{
+    margin-top: 10px;
+}
+.lab_mediauploads .formdiv .brdrcls{
+    font-size: 1.5rem !important;
+}
+.lab_mediauploads {
+    padding: 15px;
+}
+
+.upload__container {
+    
+   
+    position: relative;
+    width: 100%;
+   
+    border: 1px solid #ccc;
+    padding:3px;
+    border-radius:2px !important;
+}
+
+.upload__container--err {
+    position: relative;
+    width: 100%;
+   
+    padding:3px;
+    border-radius:2px !important;
+    border: 1px solid red;
+}
+
+.html__input-box {
+    border: 0;
+    width: 93%;
+    font-size: 1.5rem;
+}
+
+.html__input-box:focus {
+    outline:none;
+}
+
+.upload__container--img {
+    position: absolute;
+    right: 3px;
+    top: -7px;
+    padding: 11px;
+    cursor: pointer;
+}
+
+.upload__pic {
+    width:20px;
+    
+}
+
+.fileupload {
+    display:none !important;
+}
+
+.lab_mediauploads .clinicmedia_upload {
+    margin-bottom: 4px !important;
+}

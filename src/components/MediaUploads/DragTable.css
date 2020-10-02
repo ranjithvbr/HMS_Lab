@@ -1,0 +1,59 @@
+.dragMasterClass table {
+    padding: 0px 15px !important;
+    border-spacing: 0px;
+    margin-bottom: 5px;
+}
+
+.dragMasterClass tr {
+    background: none !important;
+}
+
+.dragMasterClass thead tr th {
+    /* width: 16.66%; */
+    width: 18.255%;
+}
+
+.dragMasterClass thead tr th:first-child {
+    padding-left: 33px;
+    width: 10%;
+}
+
+.dragMasterClass thead tr th:nth-child(2) {
+    width: 10%;
+}
+
+.dragMasterClass tbody td {
+    /* width: 16.66%; */
+    width: 18%;
+}
+
+.dragMasterClass tbody td:first-child {
+    padding-left: 23px;
+    width: 10%;
+}
+
+.dragMasterClass tbody td:nth-child(2) {
+    width: 10%;
+}
+
+.dragMasterClass tbody td:nth-child(6) {
+    padding-left: 23px;
+}
+
+.dragIconFelx {
+    display: flex !important;
+}
+
+.noFoundIconCenter {
+    text-align: center !important;
+}
+
+.noFoundIconCenter img {
+    width: 100px;
+    margin-top: 40px;
+    margin-right: 100px;
+}
+
+.noFoundIconCenter div {
+    margin-right: 100px;
+}

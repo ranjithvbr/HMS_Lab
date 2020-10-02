@@ -1,0 +1,56 @@
+.media_active{
+    color:#86b149;
+    font-size: 1.25rem;
+    margin-top: 15px;
+ }
+ .media_title_container .labeltxt{
+     color:#333 !important;
+ }
+ .media_title_container{
+     padding:20px;
+ }
+ 
+ .green_uploadint{
+     width:15px;
+ }
+ .upload_ins{
+     font-size: 1.5rem;
+     margin-left: 10px;
+     position: relative;
+     top: 3px;
+ }
+ .green_upload_container{
+     margin-bottom: 15px;
+ }
+ 
+ .mediadelete_container{
+     display:flex;
+     justify-content: center;
+     align-items: center;
+     width:100%;
+ }
+ .detete_no{
+    background-color: rgb(201, 201, 201) !important; 
+    color:#333;
+    font-size: 1.5rem !important;
+ }
+ .detete_yes{
+     background-color: rgb(38, 128, 235) !important;
+     color:#fff !important;
+   
+     font-size: 1.5rem !important;
+     margin-left: 15px !important;
+ }
+ .delete_para{
+     font-size: 1.5rem;
+   
+ }
+ .media_title_container .MuiButton-root{
+     min-width: 90px !important;
+ }
+ .record_delete_container .MuiDialog-paperWidthSm{
+    width:55% !important;
+ }
+  /* .Dialogmodal h6 {
+  color:#86b149 !important;
+ } */

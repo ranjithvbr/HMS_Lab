@@ -1,0 +1,20 @@
+.printtabledata table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.printtabledata td, .printtabledata th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+.printtabledata{
+    margin: 100px 80px 80px 80px;
+}
+
+.printDataTitle{
+    font-size: 25px;
+    margin-bottom: 20px;
+}

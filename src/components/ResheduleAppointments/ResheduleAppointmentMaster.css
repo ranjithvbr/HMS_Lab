@@ -1,0 +1,34 @@
+.reschedule_header .reschedule_border_box {
+  width: 100%;
+  height: 10%;
+  border: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  box-shadow: 11px 23px 16px -21px;
+  background-color: #eee;
+}
+.reschedule_header .reschedule_title {
+  margin-top: 5px !important;
+  margin-bottom: 1rem !important;
+  font-size: 1.75rem !important;
+  color: rgb(131 175 64) !important;
+}
+.reschedule_title_time {
+  font-size: 3.5rem !important;
+}
+.totay_date {
+  color: rgba(0, 0, 0, 0.87) !important;
+  margin-right: 15px !important;
+}
+.total_appointments {
+  padding: 20px 0px 0px 20px;
+}
+
+.reschedule_header {
+  margin-bottom: 5%;
+}
+.reschedule_title {
+  margin-top: 2%;
+}
